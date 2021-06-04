@@ -1,0 +1,3 @@
+sudo zypper addrepo \
+      http://download.opensuse.org/repositories/Virtualization:/Appliances:/Builder/<DIST> \
+      kiwi-appliance-builder
